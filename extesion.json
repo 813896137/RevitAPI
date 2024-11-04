@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "Learn Revit API",
+    "description": "Extensions for PyRevit",
+    "author": "Guo",
+    "author_profile": "",
+    "url": "https://github.com/Justin813896137/RevitAPI.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
