@@ -1,0 +1,5 @@
+context:
+	- active-floor-plan
+	- any:
+	  - OST_Walls
+	  - OST_Floors
