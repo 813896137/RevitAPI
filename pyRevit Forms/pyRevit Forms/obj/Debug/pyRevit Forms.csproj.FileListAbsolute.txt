@@ -1,0 +1,8 @@
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\pyRevit Forms.csproj.AssemblyReference.cache
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\MainWindow.baml
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\App.g.cs
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\pyRevit Forms_MarkupCompile.cache
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\pyRevit Forms.g.resources
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\pyRevit_Forms.Properties.Resources.resources
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\pyRevit Forms.csproj.GenerateResource.cache
+C:\Users\guojia\AppData\Roaming\GitHub pyRevit\RevitAPI.extension\pyRevit Forms\pyRevit Forms\obj\Debug\pyRevit Forms.csproj.CoreCompileInputs.cache
